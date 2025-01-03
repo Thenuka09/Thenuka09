@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Charana Thenuka
 - 👀 I’m interested in Software Enginearing specifically in developing Mobile Application
 - 🌱 I’m currently learning develop mobile application and Data Mining
-- 💞️ I’m looking to collaborate on projects related to Moblie Application and Data Mining 
+- 💞️ I’m looking to collaborate on projects related to Web Application Development and Data Mining 
 - 📫 How to reach me cthenuka09@gmail.com
 - ⚡ Fun fact:  I love listing song and traval
 
